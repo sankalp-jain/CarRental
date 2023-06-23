@@ -13,6 +13,7 @@ Embedded db H2 is used for storing data.
 JPA is used to query the data.
 
 Data can be seen at the following link - http://localhost:8080/h2-console
+
 username - sa
 
 password - 
